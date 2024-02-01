@@ -1,4 +1,5 @@
 SeriousPlayer
+
 A Windows application that creates a dedicated browser window for the player.siriusxm.com website.
 
 SiriusXM discontinued their native Windows player app. They now direct customers to use their browser 
